@@ -1,0 +1,98 @@
+* {
+    padding: 0px;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.learnmorebtn {
+    border-radius: 50px;
+    padding: 8px 20px;
+    color: orange;
+    background-color: white;
+}
+
+.sedan__img {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.sedan__header {
+    margin-bottom: 25px;
+    color: white;
+}
+
+.sedan__text {
+    margin-bottom: 70px;
+    color: white;
+}
+
+.suv__img {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.suv__header {
+    margin-bottom: 25px;
+    color: white;
+}
+
+.suv__text {
+    margin-bottom: 70px;
+    color: white;
+}
+
+.learnmore__btn {
+    border-radius: 50px;
+    padding: 8px 20px;
+    color: teal;
+    background-color: white;
+}
+
+.lux__btn {
+    border-radius: 50px;
+    padding: 8px 20px;
+    color: green;
+    background-color: white;
+}
+
+.lux__img {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.luxury__header {
+    margin-bottom: 25px;
+    color: white;
+}
+
+.lux__text {
+    margin-bottom: 70px;
+    color: white;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    
+}
+
+.threecolcontainer {
+    border: 2px solid grey;
+    padding: 20px 40px;
+    margin-left: 375px;
+    background-color: orange;
+}
+
+.threecol__container {
+    border: 2px solid grey;
+    padding: 20px 40px;
+    background-color: turquoise;
+}
+
+.threecolumncontainer {
+    border: 2px solid grey;
+    padding: 20px 40px;
+    background-color: darkgreen;
+    
+    
+}
