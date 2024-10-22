@@ -86,13 +86,13 @@
 .threecol__container {
     border: 2px solid grey;
     padding: 20px 40px;
-    background-color: turquoise;
+    background-color: teal;
 }
 
 .threecolumncontainer {
     border: 2px solid grey;
     padding: 20px 40px;
-    background-color: darkgreen;
+    background-color: rgb(5, 65, 59);
     
     
 }
